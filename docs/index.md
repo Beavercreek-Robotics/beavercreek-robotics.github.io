@@ -1,6 +1,8 @@
 # Beavercreek Robotics
 
-  Welcome to Beavercreek Robotics Club.  This page is here to help our robotics programmers.  Our goals are:
+![Beavercreek Robotics Club logo](/static/beavercreek-robotics-club-logo.png)
+
+Welcome to Beavercreek Robotics Club.  This page is here to help our robotics programmers.  Our goals are:
   
   1. Share code among our teams
   2. Help our teams track their code and issues
