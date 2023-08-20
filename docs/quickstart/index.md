@@ -40,7 +40,7 @@ If all goes well, your local files should be copied to the github server and pre
 
 In `VEXCode Pro`, Click the new project option. Chose the project options.  Once you're done, return to [step 2 above](#local-dir).
 
-## Opening your Project in VSCode
+## New Project in VSCode
 
 Assuming you've installed the VSCode VEX extension according to the instructions above, you'll have the VEX icon on your sidebar. Click it, then import a project.  Browse to the directory where you cloned your vex repository and open your `v5code` file.
 
