@@ -8,7 +8,7 @@ Before you can create a project and clone it to your computer, you'll need to co
 2. Request to join our [Beavercreek Robotics team site](https://github.com/Beavercreek-Robotics)
 3. If you are using a Windows computer, install [TortoiseGit](https://tortoisegit.org/). Note that you might need to reboot.
 4. Install one of the VEXcode Options:
-  a. The [VS Code Extension](https://www.vexrobotics.com/vexcode/vscode-extension) which requires installing [VS Code](https://code.visualstudio.com/)
+  a. The [VS Code Extension](https://www.vexrobotics.com/vexcode/vscode-extension) which requires installing [VS Code](https://code.visualstudio.com/). VEX hosts an [installation guide for vscode](https://kb.vex.com/hc/en-us/articles/8608960771092-V5-VS-Code-Installation-Guide).
   b. Install the [VEXcode Pro V5](https://www.vexrobotics.com/vexcode/install/v5)
 
 ## Starting a New Robot Project
@@ -16,12 +16,15 @@ Before you can create a project and clone it to your computer, you'll need to co
 1. Create a project for your team to use this year. The project name should include:
   a. The competition season
   b. Your team name
-2. In the project on github, copy the https link to your repository as shown here: ![Click code, then https](static/github-code-https.png)
-3. Browse to a folder on your computer where you want to store your code.  Right-click in that folder and chose clone: ![Context menu showing tortoise git Clone](static/tortoise-git-clone.png)
-4. Tortoise Git should auto-populate with your project's url and recommend creating a subdirectory to clone into. Make sure you're happy with that setting and click OK. ![Tortoise git Clone dialog](static/tortoise-git-clone-dialog.png)
+2. In the project on github, copy the https link to your repository as shown here: ![Click code, then https](/static/github-code-https.png)
+3. Browse to a folder on your computer where you want to store your code.  Right-click in that folder and chose clone: ![Context menu showing tortoise git Clone](/static/tortoise-git-clone.png)
+4. Tortoise Git should auto-populate with your project's url and recommend creating a subdirectory to clone into. Make sure you're happy with that setting and click OK. ![Tortoise git Clone dialog](/static/tortoise-git-clone-dialog.png)
 
 You should now have a directory that's either empty or has a README.md file in it.
 
 ## Opening Your Project in VEXcode Pro
 
 In `VEXCode Pro`, Open the directory where you cloned your project and begin to code.
+
+## Opening your Project in VSCode
+
