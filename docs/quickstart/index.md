@@ -37,9 +37,7 @@ graph TD
 5. In the project on github, copy the https link to your repository as shown here: ![Click code, then https](/static/github-code-https.png)
 6. In your project folder on your local computer, `Right-Click`, then chose `Sync` from the Tortoise Git menu. Paste your project's url into `Remote URL`, then click `Push`.
 
-If all goes well, your local files should be copied to the github server and preserved and shared.  From here on out, you'll use "Commit" and "Push" or "Pull." For a description of how git works, see this quick tutorial.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SWYqp7iY_Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+If all goes well, your local files should be copied to the github server and preserved and shared.  From here on out, you'll use "Commit" and "Push" or "Pull." For a description of how git works, see [Resources](/resources#tracking-code-versions).
 
 ## Opening Your Project in VEXcode Pro
 
