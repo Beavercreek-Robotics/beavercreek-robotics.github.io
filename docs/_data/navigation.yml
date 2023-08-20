@@ -1,0 +1,9 @@
+title: "Site Navigation"
+
+pages:
+- title: "Home"
+  url: ""
+- title: "Quick Start"
+  url: "/quickstart"
+- title: "Resources"
+  url: "/resources"
