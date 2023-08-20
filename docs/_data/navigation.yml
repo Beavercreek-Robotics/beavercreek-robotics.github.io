@@ -2,7 +2,7 @@ title: "Site Navigation"
 
 pages:
 - title: "Home"
-  url: ""
+  url: "/"
 - title: "Quick Start"
   url: "/quickstart"
 - title: "Resources"
