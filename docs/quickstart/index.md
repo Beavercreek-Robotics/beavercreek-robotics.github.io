@@ -16,12 +16,7 @@ Before you can create a project and clone it to your computer, you'll need to co
 
 There are several ways to start a new project.  Since we want to use the VEXcode v5 templates, we're going to start with a copy on your local computer, then import it into github.  It will look something like this:
 
-```mermaid
-graph TD
-    VEXcode<-->Folder;
-    Folder<-->Git;
-    Git<-->GitHub;
-```
+![git project flow](/static/git-project-flow.svg)
 
 1. Create a project for your team to use this year. DO NOT "Initialize with a Readme or a license." We want this to be blank. The project name should include:
 
