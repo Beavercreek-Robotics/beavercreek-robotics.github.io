@@ -18,6 +18,8 @@ There are several ways to start a new project.  Since we want to use the VEXcode
 
 ![git project flow](/static/git-project-flow.png)
 
+You will do your work in the VEX editor (or VSCode) and that will edit files in a local folder.  Git will then synchronize all those file changes to github.
+
 1. Create a project for your team to use this year. DO NOT "Initialize with a Readme or a license." We want this to be blank. The project name should include:
 
     1. The competition season
@@ -25,7 +27,7 @@ There are several ways to start a new project.  Since we want to use the VEXcode
 
     ![New Repository Settings](/static/github-new-repository-settings.png)
 
-2. Browse to a folder on your computer where you have your VEXcode V5 project.  `[[Shift]] Right-click` in your code's folder and chose `Git create repository here...`: ![Context menu showing tortoise Git Create Repository](/static/tortoise-git-shift-right-click.png). Ignore the "Make it bare" option. Leave it unchecked.
+2. <a id="local-dir">Browse to a folder</a> on your computer where you have your VEXcode V5 project.  `[[Shift]] Right-click` in your code's folder and chose `Git create repository here...`: ![Context menu showing tortoise Git Create Repository](/static/tortoise-git-shift-right-click.png). Ignore the "Make it bare" option. Leave it unchecked.
 3. Right-click, navigate to Tortoise Git, and chose `Switch/Checkout`. Then Create a New Branch named `main`.
     ![Tortoise Git dialog with "Create New Branch" checked](/static/tortoise-git-createmain-branch.png)
 4. `Right-click` then chose `Commit -> "main"` from the Tortoise git menu.  Click `All` above the list of files and enter a message like "Initial commit of code" as your commit message. Click OK.
@@ -33,6 +35,16 @@ There are several ways to start a new project.  Since we want to use the VEXcode
 6. In your project folder on your local computer, `Right-Click`, then chose `Sync` from the Tortoise Git menu. Paste your project's url into `Remote URL`, then click `Push`.
 
 If all goes well, your local files should be copied to the github server and preserved and shared.  From here on out, you'll use "Commit" and "Push" or "Pull." For a description of how git works, see [Resources](/resources#tracking-code-versions).
+
+## New Project in VEXcode Pro
+
+In `VEXCode Pro`, Click the new project option. Chose the project options.  Once you're done, return to [step 2 above](#local-dir).
+
+## Opening your Project in VSCode
+
+Assuming you've installed the VSCode VEX extension according to the instructions above, you'll have the VEX icon on your sidebar. Click it, then import a project.  Browse to the directory where you cloned your vex repository and open your `v5code` file.
+
+![VSCode UI](/static/vscode-import-screenshot.png)
 
 ## Opening Your Project in VEXcode Pro
 
