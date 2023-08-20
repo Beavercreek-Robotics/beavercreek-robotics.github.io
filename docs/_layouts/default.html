@@ -34,15 +34,12 @@
             <p class="view"><a href="{{ site.github.owner_url }}">View Our GitHub Profile</a></p>
             {% endif %}
 
-            {% if site.data.navigation.title %}
             <h3>{{ site.data.navigation.title }}</h3>
             <ul>
             {% for item in site.data.navigation.pages %}
               <li><a href="{{ item.url }}">{{ item.title }}</a></li>
             {% endfor %}
             </ul>
-
-            {% endif %}
             
             {% if site.show_downloads %}
             <ul class="downloads">
@@ -58,7 +55,7 @@
 
         </section>
         <footer>
-            <p><a href="{{ site.github.repository_url }}/blob/main/docs/{{page.path}}">Edit this page</a> so it's better for the next programmer.
+            <p><a target="_new" href="{{ site.github.repository_url }}/blob/main/docs/{{page.path}}">Edit this page</a> so it's better for the next programmer.
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
