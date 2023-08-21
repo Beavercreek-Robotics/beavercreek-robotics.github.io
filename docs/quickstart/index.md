@@ -42,7 +42,7 @@ In `VEXCode Pro`, Click the new project option. Chose the project options.  Once
 
 ## New Project in VSCode
 
-Assuming you've installed the VSCode VEX extension according to the instructions above, you'll have the VEX icon on your sidebar. Click it, then import a project.  Browse to the directory where you cloned your vex repository and open your `v5code` file.
+Assuming you've installed the VSCode VEX extension according to the instructions above, you'll have the VEX icon //on your sidebar. Click it, then import a project.  Browse to the directory where you cloned your vex repository and open your `v5code` file.
 
 ![VSCode UI](/static/vscode-import-screenshot.png)
 
