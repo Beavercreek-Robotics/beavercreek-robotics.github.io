@@ -27,7 +27,7 @@ You will do your work in the VEX editor (or VSCode) and that will edit files in 
 
     ![New Repository Settings](/static/github-new-repository-settings.png)
 
-2. <a id="local-dir">Browse to a folder</a> on your computer where you have your VEXcode V5 project.  `[[Shift]] Right-click` in your code's folder and chose `Git create repository here...`: ![Context menu showing tortoise Git Create Repository](/static/tortoise-git-shift-right-click.png). Ignore the "Make it bare" option. Leave it unchecked.
+2. <a id="local-dir">Browse to a folder</a> on your computer where you have your VEXcode V5 project.  `[[Shift]] Right-click` in your code's folder and chose `Git create repository here...`: ![Context menu showing tortoise Git Create Repository](/static/tortoise-git-shift-right-click.png). Ignore the "Make it bare" option. Leave it unchecked.e
 3. Right-click, navigate to Tortoise Git, and chose `Switch/Checkout`. Then Create a New Branch named `main`.
     ![Tortoise Git dialog with "Create New Branch" checked](/static/tortoise-git-createmain-branch.png)
 4. `Right-click` then chose `Commit -> "main"` from the Tortoise git menu.  Click `All` above the list of files and enter a message like "Initial commit of code" as your commit message. Click OK.
